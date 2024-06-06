@@ -1,7 +1,7 @@
 ## oiiee❤
 meu nome é tina gomes
 - sou estudante do alura
-- estou me aperfeiçoandona linguagem JavaScript
+- estou me aperfeiçoando linguagem JavaScript
 
 <!--
 **tinavgp/tinavgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
